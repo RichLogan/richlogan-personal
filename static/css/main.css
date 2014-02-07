@@ -32,6 +32,11 @@ p {
     margin-bottom: 25px;
 }
 
+strong {
+	color: #f85c37;
+	font-weight: bold;
+}
+
 .centered {
     text-align: center;
 }
