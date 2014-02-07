@@ -32,6 +32,10 @@ p {
     margin-bottom: 25px;
 }
 
+.icon-twitter, .icon-email {
+	padding: 20px;
+}
+
 strong {
 	color: #f85c37;
 	font-weight: bold;
