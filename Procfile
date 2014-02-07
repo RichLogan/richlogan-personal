@@ -1,1 +1,1 @@
-web: gunicorn richlogan-personal:app
+web: gunicorn hello:app

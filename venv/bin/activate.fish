@@ -32,7 +32,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/rilogan/Documents/Personal/richlogan-personal/venv"
+set -gx VIRTUAL_ENV "/Users/rilogan/.Trash/richlogan-personal/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
